@@ -1,5 +1,4 @@
 # Pong Game
-
 import turtle
 import os
 
